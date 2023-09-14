@@ -1,0 +1,1 @@
+11:18:11 AM: ERROR [Conexion.py: 31] Ocurrio un error al obtener el pool: 
